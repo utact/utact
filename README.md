@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/DashHub-Online-0052FF?style=flat-square" valign="middle" />
 </a>
 <a href="https://chromewebstore.google.com/detail/kimjgflahdmnlhilmojcoaechlgkokhc">
-  <img src="https://img.shields.io/badge/DashHub-v1.7.4-4285F4?style=flat-square&logo=googlechrome&logoColor=white" valign="middle" />
+  <img src="https://img.shields.io/badge/DashHub-v1.7.5-4285F4?style=flat-square&logo=googlechrome&logoColor=white" valign="middle" />
 </a>
 
 </div>
